@@ -1,4 +1,4 @@
-# traffic-light-with-pedestrian-crossing
+# Traffic-Light-with-Pedestrian-Crossing
 This project was for a microcontroller course laboratory. The purpose was to simulate an intersection of a primary and secondary road. 
 Every road has four tracks, of which two are SOLOS. Each road has a pedestrian button that turns that road traffic light to red and the 
 other one can only go forward, the solo is not activated until the pedestrian crosses. 
